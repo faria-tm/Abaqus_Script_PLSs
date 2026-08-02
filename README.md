@@ -80,8 +80,5 @@ Abaqus is unit-agnostic; this script follows the mm–tonne–N–MPa–s conven
 
 If you use this script in academic work, please cite the associated publication:
 
-> *(add full citation here)*
+> https://doi.org/10.1016/j.giant.2024.100282
 
-## License
-
-*(add a license, e.g. MIT, before publishing — see [choosealicense.com](https://choosealicense.com/))*
